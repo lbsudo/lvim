@@ -1,0 +1,6 @@
+reload('user.options')
+reload('user.plugins')
+reload('user.colorscheme')
+reload('user.lsp')
+reload('user.treesitter')
+reload('user.keymaps')
